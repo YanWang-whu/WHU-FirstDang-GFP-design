@@ -1,0 +1,7 @@
+Seq_ID,family,source,mutations,length,brightness,brightness_delta,stability_prior,rationale
+1,cgreGFP,official_brightness_table,I31V:A168V,235,4.603002633,+0.106088614,0.64,Exact non-excluded variant reconstructed from official brightness data.
+2,ppluGFP,official_brightness_table,E19G:G68D:F167S:L199H,222,4.445059082,+0.219235335,0.92,Exact non-excluded variant reconstructed from official brightness data.
+3,amacGFP,official_brightness_table,V11L:I122V:C202S,238,4.271580586,+0.300847232,0.72,Exact non-excluded variant reconstructed from official brightness data.
+4,ppluGFP,official_brightness_table,N79S:F113I:L199H,222,4.428209133,+0.202385386,0.92,Exact non-excluded variant reconstructed from official brightness data.
+5,cgreGFP,official_brightness_table,D90Y:K167M,235,4.599470181,+0.102556162,0.64,Exact non-excluded variant reconstructed from official brightness data.
+6,sfGFP,literature_guided_design,S202D:V206K:H231L,238,,,0.90,sfGFP core plus surface/C-terminal variants observed in prior high-scoring avGFP designs.
