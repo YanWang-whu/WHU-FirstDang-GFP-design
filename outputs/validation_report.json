@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "errors": [],
+  "details": [
+    {
+      "row": 1,
+      "Seq_ID": "1",
+      "length": 235,
+      "starts_M": true,
+      "standard_aa_only": true,
+      "in_exclusion_list": false,
+      "errors": []
+    },
+    {
+      "row": 2,
+      "Seq_ID": "2",
+      "length": 222,
+      "starts_M": true,
+      "standard_aa_only": true,
+      "in_exclusion_list": false,
+      "errors": []
+    },
+    {
+      "row": 3,
+      "Seq_ID": "3",
+      "length": 238,
+      "starts_M": true,
+      "standard_aa_only": true,
+      "in_exclusion_list": false,
+      "errors": []
+    },
+    {
+      "row": 4,
+      "Seq_ID": "4",
+      "length": 222,
+      "starts_M": true,
+      "standard_aa_only": true,
+      "in_exclusion_list": false,
+      "errors": []
+    },
+    {
+      "row": 5,
+      "Seq_ID": "5",
+      "length": 235,
+      "starts_M": true,
+      "standard_aa_only": true,
+      "in_exclusion_list": false,
+      "errors": []
+    },
+    {
+      "row": 6,
+      "Seq_ID": "6",
+      "length": 238,
+      "starts_M": true,
+      "standard_aa_only": true,
+      "in_exclusion_list": false,
+      "errors": []
+    }
+  ]
+}
